@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reactTodo/static/css/main.67c61fea.chunk.css",
-    "main.js": "/reactTodo/static/js/main.ebb9779b.chunk.js",
-    "main.js.map": "/reactTodo/static/js/main.ebb9779b.chunk.js.map",
-    "runtime-main.js": "/reactTodo/static/js/runtime-main.8ff3d981.js",
-    "runtime-main.js.map": "/reactTodo/static/js/runtime-main.8ff3d981.js.map",
-    "static/js/2.99bf576b.chunk.js": "/reactTodo/static/js/2.99bf576b.chunk.js",
-    "static/js/2.99bf576b.chunk.js.map": "/reactTodo/static/js/2.99bf576b.chunk.js.map",
-    "index.html": "/reactTodo/index.html",
-    "static/css/main.67c61fea.chunk.css.map": "/reactTodo/static/css/main.67c61fea.chunk.css.map",
-    "static/js/2.99bf576b.chunk.js.LICENSE.txt": "/reactTodo/static/js/2.99bf576b.chunk.js.LICENSE.txt"
+    "main.css": "/cryptoapp/static/css/main.67c61fea.chunk.css",
+    "main.js": "/cryptoapp/static/js/main.ebb9779b.chunk.js",
+    "main.js.map": "/cryptoapp/static/js/main.ebb9779b.chunk.js.map",
+    "runtime-main.js": "/cryptoapp/static/js/runtime-main.f7c3c35e.js",
+    "runtime-main.js.map": "/cryptoapp/static/js/runtime-main.f7c3c35e.js.map",
+    "static/js/2.99bf576b.chunk.js": "/cryptoapp/static/js/2.99bf576b.chunk.js",
+    "static/js/2.99bf576b.chunk.js.map": "/cryptoapp/static/js/2.99bf576b.chunk.js.map",
+    "index.html": "/cryptoapp/index.html",
+    "static/css/main.67c61fea.chunk.css.map": "/cryptoapp/static/css/main.67c61fea.chunk.css.map",
+    "static/js/2.99bf576b.chunk.js.LICENSE.txt": "/cryptoapp/static/js/2.99bf576b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ff3d981.js",
+    "static/js/runtime-main.f7c3c35e.js",
     "static/js/2.99bf576b.chunk.js",
     "static/css/main.67c61fea.chunk.css",
     "static/js/main.ebb9779b.chunk.js"
